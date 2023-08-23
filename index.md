@@ -33,4 +33,4 @@ Connect with me to explore how we can bring your visions to life!
 [Click here](/Mohammad_Amin_Asadi-Computer_Vision.pdf) to view my CV pdf file
 
 
-{% include archive.html %}
+Also, you can contact me easily from [here](/contact.md)
