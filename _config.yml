@@ -1,20 +1,20 @@
 # site settings
 
-title: cvless
-description: Jekyll theme for a beautiful online CV
-taglong: Jekyll theme for a beautiful online CV
-tagshort: Jekyll theme
-url: https://cvless.netlify.app
+title: Mohammad Amin Asadi
+description: Mohammad Amin Asadi Portfolio
+taglong: Mohammad Amin Asadi Portfolio
+tagshort: Asadi Portfolio
+url: /assets/jpg/MohammadـAminـAsadi-ComputerـVision.pdf
 baseurl: ""
 permalink: pretty
-repo: https://github.com/username/username.github.io
+repo: https://github.com/prankshtain/prankshtain.github.io
 
 # author settings
 
 author:
-  name: Place Holder
+  name: Mohammad Amin Asadi
   email: username@domain.com
-photo: /assets/jpg/photo.jpg
+photo: /assets/jpg/Mohammad_Amin_Asadi.jpg
 
 # build settings
 
