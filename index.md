@@ -30,7 +30,7 @@ I am **Mohammad Amin Asadi**, a name synonymous with image processing, computer 
 
 Connect with me to explore how we can bring your visions to life!
 
-[Click here](/cv.pdf) to view my CV pdf file
+[Click here](/Mohammad_Amin_Asadi-Computer_Vision.pdf) to view my CV pdf file
 
 
 {% include archive.html %}
