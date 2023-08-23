@@ -1,0 +1,51 @@
+# site settings
+
+title: cvless
+description: Jekyll theme for a beautiful online CV
+taglong: Jekyll theme for a beautiful online CV
+tagshort: Jekyll theme
+url: https://cvless.netlify.app
+baseurl: ""
+permalink: pretty
+repo: https://github.com/username/username.github.io
+
+# author settings
+
+author:
+  name: Place Holder
+  email: username@domain.com
+photo: /assets/jpg/photo.jpg
+
+# build settings
+
+exclude:
+  - LICENSE
+  - README.md
+
+plugins:
+  - jekyll-feed
+  - jekyll-gist
+  - jekyll-paginate-v2
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+whitelist:
+  - jekyll-sitemap
+
+sass:
+  sass_dir: _sass
+  style: compressed
+  sourcemap: never
+
+feed:
+  path: atom.xml
+
+autopages:
+  enabled: false
+
+pagination:
+  enabled: true
+  per_page: 1
+  sort_reverse: true
+  permalink: /:num/
+  title: ":title &middot; Page :num"
