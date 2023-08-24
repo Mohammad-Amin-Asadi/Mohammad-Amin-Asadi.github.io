@@ -3,7 +3,7 @@ layout: home
 title: Home
 ---
 
-# Welcome to my Portfolio
+## Welcome to my Portfolio
 
 Hello there! I'm **Mohammad Amin Asadi**, a passionate professional specializing in the captivating realms of **Computer Vision and Artificial Intelligence**. With a fusion of hard skills such as deep-rooted expertise in Computer **Vision** and soft skills that encompass stellar communication and self-motivation, I'm here to embark on a journey of innovation and exploration.
 
