@@ -3,19 +3,19 @@ layout: home
 title: Home
 ---
 
-## Welcome to my Portfolio
 
-Hello there! I'm **Mohammad Amin Asadi**, a passionate professional specializing in the captivating realms of **Computer Vision and Artificial Intelligence**. With a fusion of hard skills such as deep-rooted expertise in Computer **Vision** and soft skills that encompass stellar communication and self-motivation, I'm here to embark on a journey of innovation and exploration.
+Welcome to my Portfolio
 
-## Education and Experience
+Hey there! I'm Mohammad Amin Asadi, focusing on Computer Vision and Artificial Intelligence. Let's dive in!
 
-I hold a diploma from the prestigious Amir Kabir Academy of Brilliant Talents, setting the foundation for my expansive knowledge. With over **4 years** in the realm of programming and a dedicated year in web development, I've spent the last **3 years** immersed in Python, Computer Vision, and AI. My journey has encompassed diverse roles, from serving as the CTO at WikiQ to nurturing young minds as a teacher at I3center.
+Education and Experience
 
-## Achievements That Speak
+I graduated from the "Amirkabir vocational school  Academy of Brilliant Talents" and have been immersed in programming for over 4 years, with a year dedicated to web development. For the past 3 years, I've been honing my skills in Python, Computer Vision, and AI. I've held various roles, including serving as technical support at [telefonchy](https://telefonchy.com/) the CTO at [WikiQ](https://www.wikiq.co/about-us), teaching at [I3center](https://i3center.com/teacher/%D9%85%D9%87%D9%86%D8%AF%D8%B3-%D9%85%D8%AD%D9%85%D8%AF%D8%A7%D9%85%DB%8C%D9%86-%D8%A7%D8%B3%D8%AF%DB%8C/) and R&D in [Part-AI-Center](https://partdp.ai/en/)
+
+Achievements
 
 - 🏆 **First Place** in the exhilarating self-driving cars U19 competition of the IRAN Fira Cup's League, showcasing my prowess in autonomous vehicles (*Simulator*) 2021.
 - 🏆 **First Place** in self-driving cars U19 competition of the IRAN Fira Cup's League (*All-rounds*) 2023.
-- 🏆 **First Place** in self-driving cars U19 competition of the IRAN Fira Cup's League (*Simulator*) 2023.
 - 🏆 **First Place** in self-driving cars U19 competition of the IRAN Fira Cup's League (*Simulator*) 2023.
 - 🏆 **First Place** in self-driving cars U19 competition of the IRAN Fira Cup's League (*Race - Simulator*) 2023.
 - 🏆 **First Place** in the national robotics competition ROBOIUT, outshining competitors in solving maze-line challenges at the Isfahan University of Technology 2021.
@@ -25,17 +25,19 @@ I hold a diploma from the prestigious Amir Kabir Academy of Brilliant Talents, s
 - 🥉 **Third Place** in self-driving cars U19 competition of the IRAN Fira Cup's League (*Urban - Simulator*) 2023.
 - 📜 Proudly possess the **ICDL IRAN association Certificate** in Python, a testament to my expertise in the programming realm.
 
-## Mission and Interests
+Mission and Interests
 
-My mission is crystal clear: to tackle challenges with unwavering determination and deliver excellence beyond expectations. I believe in the power of technology to transform lives and solve intricate problems, a belief that propels me forward.
+My mission is straightforward: I'm here to tackle challenges and deliver quality results. I believe in the potential of technology to make a positive impact on people's lives.
 
-Beyond the tech universe, you'll find me submerged in the pages of fantasy and fictional books, with the likes of Harry Potter sparking my imagination. My ears are tuned to enriching podcasts discussing the latest in tech. When I'm not exploring algorithms, I'm conquering Dota 2 battles or embarking on refreshing runs.
+Outside of work, I enjoy exploring fantasy books and staying updated on the latest tech trends through podcasts. In my downtime, you can find me playing Dota 2 or going for a run.
 
-## Vision Beyond the Horizon
+Vision
 
-I am **Mohammad Amin Asadi**, a name synonymous with image processing, computer vision, and boundless energy. My approach is a harmonious blend of professionalism, friendliness, and an uncontainable enthusiasm for my craft. Join me on this journey of innovation, where the world of Computer Vision converges with the magic of AI.
+I'm Mohammad Amin Asadi, passionate about image processing, computer vision, and AI. Let's collaborate and innovate together!
 
-Connect with me to explore how we can bring your visions to life!
+Feel free to reach out, and let's discuss how we can turn your ideas into reality!
+
+
 
  <a href="/Mohammad_Amin_Asadi-Computer_Vision.pdf" download="your-cv.pdf">Download CV</a>
  <a href="/contact/">Contact me</a>
