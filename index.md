@@ -10,7 +10,7 @@ Hey there! I'm Mohammad Amin Asadi, focusing on Computer Vision and Artificial I
 
 Education and Experience
 
-I graduated from the "Amirkabir vocational school  Academy of Brilliant Talents" and have been immersed in programming for over 4 years, with a year dedicated to web development. For the past 3 years, I've been honing my skills in Python, Computer Vision, and AI. I've held various roles, including serving as technical support at [telefonchy](https://telefonchy.com/) the CTO at [WikiQ](https://www.wikiq.co/about-us), teaching at [I3center](https://i3center.com/teacher/%D9%85%D9%87%D9%86%D8%AF%D8%B3-%D9%85%D8%AD%D9%85%D8%AF%D8%A7%D9%85%DB%8C%D9%86-%D8%A7%D8%B3%D8%AF%DB%8C/) and R&D in [Part-AI-Center](https://partdp.ai/en/)
+I graduated from the "Amirkabir vocational school  Academy of Brilliant Talents" and have been immersed in programming for over 4 years, with a year dedicated to web development. For the past 3 years, I've been honing my skills in Python, Computer Vision, and AI. I've held various roles, including serving as technical support at [telefonchy](https://telefonchy.com/), teaching at [I3center](https://i3center.com/teacher/%D9%85%D9%87%D9%86%D8%AF%D8%B3-%D9%85%D8%AD%D9%85%D8%AF%D8%A7%D9%85%DB%8C%D9%86-%D8%A7%D8%B3%D8%AF%DB%8C/) and R&D in [Part-AI-Center](https://partdp.ai/en/)
 
 Achievements
 
@@ -39,6 +39,6 @@ Feel free to reach out, and let's discuss how we can turn your ideas into realit
 
 
 
- <a href="/Mohammad_Amin_Asadi-Computer_Vision.pdf" download="your-cv.pdf">Download CV</a>
+ <a href="/Mohammad_Amin_Asadi-Computer_Vision.pdf" download="Mohammad_Amin_Asadi-Computer_Vision.pdf">Download CV</a>
  <a href="/contact/">Contact me</a>
 
