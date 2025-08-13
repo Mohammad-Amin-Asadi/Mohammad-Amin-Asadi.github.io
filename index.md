@@ -4,38 +4,88 @@ title: Home
 ---
 
 
-Welcome to my Portfolio
+# 👋 Welcome to My Portfolio
 
-Hey there! I'm Mohammad Amin Asadi, focusing on Computer Vision and Artificial Intelligence. Let's dive in!
+Hi! I’m **Mohammad Amin Asadi**, a **Deep Learning & Computer Vision Engineer** with multiple **national awards** in autonomous vehicles and robotics.  
+I specialize in building and optimizing AI systems using **Python**, **TensorFlow**, **OpenCV**, **YOLO models**, and **ONNX/TensorRT**.  
+With over **5 years of programming experience**, I focus on delivering **real-world AI solutions** that perform.
 
-Education and Experience
+---
 
-I graduated from the "Amirkabir vocational school  Academy of Brilliant Talents" and have been immersed in programming for over 4 years, with a year dedicated to web development. For the past 3 years, I've been honing my skills in Python, Computer Vision, and AI. I've held various roles, including serving as technical support at [telefonchy](https://telefonchy.com/), teaching at [I3center](https://i3center.com/teacher/%D9%85%D9%87%D9%86%D8%AF%D8%B3-%D9%85%D8%AD%D9%85%D8%AF%D8%A7%D9%85%DB%8C%D9%86-%D8%A7%D8%B3%D8%AF%DB%8C/) and R&D in [Part-AI-Center](https://partdp.ai/en/)
+## 🎓 Education
+- 🎓 **BS in Software Engineering** – Azad University *(Ongoing)*
+- 📜 **Diploma in Network & Software** – Amirkabir Vocational School Academy of Brilliant Talents *(Grade: 19.77/20)*
+- 💻 **ICDL IRAN Certificate in Python**
+- **English Proficiency:** IELTS 7 (C1)
 
-Achievements
+---
 
-- 🏆 **First Place** in the exhilarating self-driving cars U19 competition of the IRAN Fira Cup's League, showcasing my prowess in autonomous vehicles (*Simulator*) 2021.
-- 🏆 **First Place** in self-driving cars U19 competition of the IRAN Fira Cup's League (*All-rounds*) 2023.
-- 🏆 **First Place** in self-driving cars U19 competition of the IRAN Fira Cup's League (*Simulator*) 2023.
-- 🏆 **First Place** in self-driving cars U19 competition of the IRAN Fira Cup's League (*Race - Simulator*) 2023.
-- 🏆 **First Place** in the national robotics competition ROBOIUT, outshining competitors in solving maze-line challenges at the Isfahan University of Technology 2021.
-- 🥈 **Second Place** in self-driving cars Open competition of the IRAN Fira Cup's League (*Race - Simulator*) 2023.
-- 🥈 **Second Place** in the open league of the Fira Cup's self-driving cars competition (*simulator*)2021.
-- 🥉 **Third Place** in self-driving cars Open competition of the IRAN Fira Cup's League (*All-rounds*) 2023.
-- 🥉 **Third Place** in self-driving cars U19 competition of the IRAN Fira Cup's League (*Urban - Simulator*) 2023.
-- 📜 Proudly possess the **ICDL IRAN association Certificate** in Python, a testament to my expertise in the programming realm.
+## 💼 Experience
 
-Mission and Interests
+### 🚀 Tech Lead – Computer Vision (Warehouse Automation)  
+**Rapid Solutions International, UAE – Remote** *(Sep 2024 – Present)*  
+- Developed & optimized CNN-based models with **ONNX** & **TensorRT**  
+- Applied **OpenCV** preprocessing for image enhancement  
+- Managed large datasets & improved training efficiency  
+- Led deployments & mentored CV engineers  
 
-My mission is straightforward: I'm here to tackle challenges and deliver quality results. I believe in the potential of technology to make a positive impact on people's lives.
+### 🔬 Computer Vision Researcher & Developer  
+**PartAI Research Center, Iran** *(Oct 2023 – Oct 2024)*  
+- Built **10+ vision & large vision models**  
+- Achieved **10× faster CPU inference** via ONNX optimizations  
+- Authored **30+ technical Wikis** for R&D documentation  
 
-Outside of work, I enjoy exploring fantasy books and staying updated on the latest tech trends through podcasts. In my downtime, you can find me playing Dota 2 or going for a run.
+### 🛠 Freelance Computer Vision Engineer *(Jan 2023 – Oct 2023)*  
+- Created Persian license plate recognition app (**95%+ accuracy**)  
+- Built one of the **largest Persian plate datasets** (~5000 images)  
+- Developed AI navigation assistant for visually impaired users  
 
-Vision
+### 📚 Python Tutor – I3center *(Jan 2022 – Nov 2022)*  
+- Taught Python from basics to OOP; created online courses  
 
-I'm Mohammad Amin Asadi, passionate about image processing, computer vision, and AI. Let's collaborate and innovate together!
+### 🤖 CV & Robotics Tutor – Amirkabir Academy *(2020 – 2023)*  
+- Built **Face Recognition Attendance System**  
+- Trained & coached AI robotics teams  
 
-Feel free to reach out, and let's discuss how we can turn your ideas into reality!
+### 💻 Junior Front-End Dev & Technical Support – Telefonchy & Toopita *(2019 – 2020)*  
+
+---
+
+## 🏆 Awards & Achievements
+- 🏅 **National Referee** – 2025 **Fira Iran Autonomous Vehicles League**
+- 🥇 **1st Place** – Self-Driving Cars (Pro League) – IRAN Tech Olympics 2024 *(Simulator)*
+- 🥇 **1st Place** – Self-Driving Cars (U19) – IRAN Tech Olympics 2024 *(Coach)*
+- 🥇 **1st Place** – IRAN Fira Cup (2021, 2023) – Autonomous Vehicles
+- 🥇 **1st Place** – National Robotics Competition ROBOIUT 2021
+- 🥈 & 🥉 Multiple podium finishes in national autonomous vehicle competitions
+
+---
+
+## 🛠 Skills
+
+**Core AI & CV:**  
+`Python` • `TensorFlow` • `CNNs` • `YOLO` • `MediaPipe` • `HuggingFace` • `Transformers` • `ONNX` • `TensorRT` • `Object Detection` • `Object Segmentation` • `Large Vision Models` • `OpenCV`
+
+**Tools & Platforms:**  
+`Docker` • `RabbitMQ` • `SQL` • `Linux`
+
+**Web Development (Prior Stack):**  
+`HTML` • `CSS` • `JavaScript` • `jQuery` • `Django` • `DRF`
+
+---
+
+## 🌍 Mission & Vision
+I aim to **solve real-world problems with AI**, advance **autonomous systems**,  
+and make **technology more accessible** by bridging research and deployment.
+
+---
+
+## 📬 Let’s Connect
+[![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white)](https://github.com/mohammad-amin-asadi)
+[![Portfolio](https://img.shields.io/badge/Portfolio-1DA1F2?logo=internet-explorer&logoColor=white)](https://mohammad-amin-asadi.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-amin-asadi/)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mohammadasadiamin@gmail.com)
+
 
 
 
