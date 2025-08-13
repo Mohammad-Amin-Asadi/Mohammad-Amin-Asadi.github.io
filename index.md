@@ -6,6 +6,7 @@ title: Home
 
 # 👋 Welcome to My Portfolio
 
+
 Hi! I’m **Mohammad Amin Asadi**, a **Deep Learning & Computer Vision Engineer** with multiple **national awards** in autonomous vehicles and robotics.  
 I specialize in building and optimizing AI systems using **Python**, **TensorFlow**, **OpenCV**, **YOLO models**, and **ONNX/TensorRT**.  
 With over **5 years of programming experience**, I focus on delivering **real-world AI solutions** that perform.
