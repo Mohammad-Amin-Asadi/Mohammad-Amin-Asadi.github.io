@@ -90,5 +90,4 @@ and make **technology more accessible** by bridging research and deployment.
 
 
  <a href="/Mohammad_Amin_Asadi-Computer_Vision.pdf" download="Mohammad_Amin_Asadi-Computer_Vision.pdf">Download CV</a>
- <a href="/contact/">Contact me</a>
 
